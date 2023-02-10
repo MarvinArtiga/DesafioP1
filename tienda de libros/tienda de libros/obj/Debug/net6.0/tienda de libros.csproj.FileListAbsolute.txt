@@ -1,0 +1,15 @@
+C:\Users\lenovo\OneDrive\Escritorio\trabajos de la Universidad\PAL\laboratorio\tienda de libros\tienda de libros\bin\Debug\net6.0\tienda de libros.exe
+C:\Users\lenovo\OneDrive\Escritorio\trabajos de la Universidad\PAL\laboratorio\tienda de libros\tienda de libros\bin\Debug\net6.0\tienda de libros.deps.json
+C:\Users\lenovo\OneDrive\Escritorio\trabajos de la Universidad\PAL\laboratorio\tienda de libros\tienda de libros\bin\Debug\net6.0\tienda de libros.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Escritorio\trabajos de la Universidad\PAL\laboratorio\tienda de libros\tienda de libros\bin\Debug\net6.0\tienda de libros.dll
+C:\Users\lenovo\OneDrive\Escritorio\trabajos de la Universidad\PAL\laboratorio\tienda de libros\tienda de libros\bin\Debug\net6.0\tienda de libros.pdb
+C:\Users\lenovo\OneDrive\Escritorio\trabajos de la Universidad\PAL\laboratorio\tienda de libros\tienda de libros\obj\Debug\net6.0\tienda de libros.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Escritorio\trabajos de la Universidad\PAL\laboratorio\tienda de libros\tienda de libros\obj\Debug\net6.0\tienda de libros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Escritorio\trabajos de la Universidad\PAL\laboratorio\tienda de libros\tienda de libros\obj\Debug\net6.0\tienda de libros.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Escritorio\trabajos de la Universidad\PAL\laboratorio\tienda de libros\tienda de libros\obj\Debug\net6.0\tienda de libros.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Escritorio\trabajos de la Universidad\PAL\laboratorio\tienda de libros\tienda de libros\obj\Debug\net6.0\tienda de libros.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Escritorio\trabajos de la Universidad\PAL\laboratorio\tienda de libros\tienda de libros\obj\Debug\net6.0\tienda de libros.dll
+C:\Users\lenovo\OneDrive\Escritorio\trabajos de la Universidad\PAL\laboratorio\tienda de libros\tienda de libros\obj\Debug\net6.0\refint\tienda de libros.dll
+C:\Users\lenovo\OneDrive\Escritorio\trabajos de la Universidad\PAL\laboratorio\tienda de libros\tienda de libros\obj\Debug\net6.0\tienda de libros.pdb
+C:\Users\lenovo\OneDrive\Escritorio\trabajos de la Universidad\PAL\laboratorio\tienda de libros\tienda de libros\obj\Debug\net6.0\tienda de libros.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Escritorio\trabajos de la Universidad\PAL\laboratorio\tienda de libros\tienda de libros\obj\Debug\net6.0\ref\tienda de libros.dll
