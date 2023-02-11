@@ -25,13 +25,15 @@ namespace ResistenciaElectronicas
             Console.WriteLine("\t                                     ~ Ω ~");
             Console.WriteLine("\t             Puedes escribir el numero de opcion segun el color.");
 
-
-
             string xb1 = "0", xb2 = "0", xrt = "0";
-            double xb3 = 0, respuesta1 = 0;
+            double xb3 = 0, respuesta1 = 0, rt;
             int respuesta = 0, tb4 = 0;
-            string opb, r1;          //Aca guardo las Variables de las opciones del primer(r1) y segundo(opb1) Switch
-            Boolean continua = true; //Este boolean es para regresar en el primer Switch (r1)            
+            int k = 1000;
+            int m = 1000000;
+            int g = 10000000;
+
+            string opb, r1;          //Aca guardo las Variables de las opciones del primer (r1) y segundo (opb1) Switch
+            Boolean continua = true; //Este boolean es para regresar en el primer Switch (r1) 
 
             Console.ForegroundColor = ConsoleColor.Black;
             Console.BackgroundColor = ConsoleColor.White;
@@ -189,7 +191,7 @@ namespace ResistenciaElectronicas
                         Console.ForegroundColor = ConsoleColor.Black;
                         Console.BackgroundColor = ConsoleColor.White;
                         Console.WriteLine("  ═════════════════════════════════════════════════════════════");
-                        Console.WriteLine("        ║   "+ xb1 +"   ║   ║BANDA 2║   ║   ?   ║   ║   ?   ║");
+                        Console.WriteLine("        ║   " + xb1 + "   ║   ║BANDA 2║   ║   ?   ║   ║   ?   ║");
                         Console.WriteLine("  ═════════════════════════════════════════════════════════════");
                         Console.WriteLine("  ╔═  Escribe el (NUMERO) correspondiente al 'Color' la banda");
 
@@ -461,7 +463,7 @@ namespace ResistenciaElectronicas
                                 Console.WriteLine("\tFavor ingresa una opcion valida");
                                 break;
                         }
-                    break;
+                        break;
 
                     case "4":
                         Console.ForegroundColor = ConsoleColor.Black;
@@ -537,48 +539,71 @@ namespace ResistenciaElectronicas
                             default:
                                 Console.WriteLine("\n");
                                 Console.WriteLine("\tFavor ingresa una opcion valida");
-                            break;
+                                break;
 
                         }
-                    break;
+                        break;
 
-                    case "r": case "R":
+                    case "r":
+                    case "R":
                         continua = false;
-                    break;
+                        break;
 
                     default:
                         Console.WriteLine("\n\t");
                         Console.WriteLine("\tFavor ingresa una opcion valida");
-                    break;
+                        break;
                 }
             }
             while (continua);
             Console.WriteLine("\n\t");
-            Console.WriteLine("\tLos datos son: " + xb1 + " - " + xb2 + " * " + xb3 + " Tolerancia de ±" + tb4 + "%");
-            xrt = xb1 + xb2;            
-            respuesta = Convert.ToInt32(xrt); //respuesta que es una string que le asigno la respuesta entera de la conquenacion de xb1 y xb2
-            respuesta1 = respuesta * xb3;     //Genero otra var respuesta, para operar con un entero con entero
-            Console.WriteLine("\tLa (RESITENCIA) tiene un valor de: " + respuesta1 + " homs.");
-
+            Console.WriteLine("\t ----Calculadora de 4 bandas en Resistencia Electronicas---- ");
+            Console.WriteLine("\t                             ~ Ω ~");
             Console.Write("\n\n");
-            Console.Write("\t");
+            Console.WriteLine("\t\tLos datos son: " + xb1 + " - " + xb2 + " * " + xb3 + " Tolerancia de ±" + tb4 + "%");
+            xrt = xb1 + xb2;
+            respuesta = Convert.ToInt32(xrt); //respuesta que es una string que le asigno la respuesta entera de la conquenacion de xb1 y xb2
+            respuesta1 = respuesta * xb3;     //Genero otra var. respuesta, para operar con un entero con entero
+            rt = respuesta1;
+
+            if (rt < k)
+            {
+                Console.WriteLine("\t\tLa (RESITENCIA) tiene un valor de: ═╣ " + rt + " homs. ╠═");
+            }
+            else if (rt >= k && rt < m)
+            {
+                Console.WriteLine("\t\tLa (RESITENCIA) tiene un valor de: ═╣ " + rt / 1000 + "K homs. ╠═");
+            }
+            else if (rt >= m && rt < g)
+            {
+                Console.WriteLine("\t\tLa (RESITENCIA) tiene un valor de: ═╣ " + rt / 1000000 + "M homs. ╠═");
+            }
+            else if (rt >= g)
+            {
+                Console.WriteLine("\t\tLa (RESITENCIA) tiene un valor de: ═╣ " + rt / 10000000 + "G homs. ╠═");
+            }
+
+            Console.Write("\n");
+            Console.Write("\t\t");
             Console.ForegroundColor = ConsoleColor.White;
             Console.BackgroundColor = ConsoleColor.DarkMagenta;
             Console.WriteLine("*********************************************");
             Console.ForegroundColor = ConsoleColor.Black;
             Console.BackgroundColor = ConsoleColor.White;
-            Console.WriteLine("\t*                                           *");
-            Console.WriteLine("\t*     Este programa fue diseñado por:       *");
-            Console.WriteLine("\t*                                           *");
-            Console.WriteLine("\t*             David Alejandro               *");
-            Console.WriteLine("\t*                                           *");
-            Console.Write("\t");
+            Console.WriteLine("\t\t*                                           *");
+            Console.WriteLine("\t\t*       Este programa fue diseñado por:     *");
+            Console.WriteLine("\t\t*                                           *");
+            Console.WriteLine("\t\t*              David Alejandro              *");
+            Console.WriteLine("\t\t*   ***Ejercicio V. del trabajo grupal***   *");
+            Console.WriteLine("\t\t*            DESAFIO PRECTICO #1            *");
+            Console.WriteLine("\t\t*                                           *");
+            Console.Write("\t\t");
             Console.ForegroundColor = ConsoleColor.White;
             Console.BackgroundColor = ConsoleColor.DarkMagenta;
             Console.WriteLine("*********************************************");
             Console.ForegroundColor = ConsoleColor.Black;
             Console.BackgroundColor = ConsoleColor.White;
-            Console.Write("\t");
+            Console.Write("\t\t");
 
             Console.ReadKey();
 
