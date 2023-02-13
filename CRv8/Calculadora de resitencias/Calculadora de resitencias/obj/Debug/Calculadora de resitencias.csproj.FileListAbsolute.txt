@@ -1,0 +1,7 @@
+C:\Users\wwwAl\Documents\Archivos de visual\CRv8\Calculadora de resitencias\Calculadora de resitencias\bin\Debug\Calculadora de resitencias.exe.config
+C:\Users\wwwAl\Documents\Archivos de visual\CRv8\Calculadora de resitencias\Calculadora de resitencias\bin\Debug\Calculadora de resitencias.exe
+C:\Users\wwwAl\Documents\Archivos de visual\CRv8\Calculadora de resitencias\Calculadora de resitencias\bin\Debug\Calculadora de resitencias.pdb
+C:\Users\wwwAl\Documents\Archivos de visual\CRv8\Calculadora de resitencias\Calculadora de resitencias\obj\Debug\Calculadora de resitencias.csprojAssemblyReference.cache
+C:\Users\wwwAl\Documents\Archivos de visual\CRv8\Calculadora de resitencias\Calculadora de resitencias\obj\Debug\Calculadora de resitencias.csproj.CoreCompileInputs.cache
+C:\Users\wwwAl\Documents\Archivos de visual\CRv8\Calculadora de resitencias\Calculadora de resitencias\obj\Debug\Calculadora de resitencias.exe
+C:\Users\wwwAl\Documents\Archivos de visual\CRv8\Calculadora de resitencias\Calculadora de resitencias\obj\Debug\Calculadora de resitencias.pdb
