@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Documents\PR Visual Estudio\2calcularareafiguras\2calcularareafiguras\bin\Debug\2calcularareafiguras.exe.config
+C:\Users\USUARIO\Documents\PR Visual Estudio\2calcularareafiguras\2calcularareafiguras\bin\Debug\2calcularareafiguras.exe
+C:\Users\USUARIO\Documents\PR Visual Estudio\2calcularareafiguras\2calcularareafiguras\bin\Debug\2calcularareafiguras.pdb
+C:\Users\USUARIO\Documents\PR Visual Estudio\2calcularareafiguras\2calcularareafiguras\obj\Debug\2calcularareafiguras.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\PR Visual Estudio\2calcularareafiguras\2calcularareafiguras\obj\Debug\2calcularareafiguras.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\PR Visual Estudio\2calcularareafiguras\2calcularareafiguras\obj\Debug\2calcularareafiguras.exe
+C:\Users\USUARIO\Documents\PR Visual Estudio\2calcularareafiguras\2calcularareafiguras\obj\Debug\2calcularareafiguras.pdb
