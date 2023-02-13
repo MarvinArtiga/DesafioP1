@@ -1,0 +1,7 @@
+C:\Users\diego\OneDrive\Escritorio\UDB\ejercicio estructura secuencial\ejercicio estructura secuencial\bin\Debug\ejercicio estructura secuencial.exe.config
+C:\Users\diego\OneDrive\Escritorio\UDB\ejercicio estructura secuencial\ejercicio estructura secuencial\bin\Debug\ejercicio estructura secuencial.exe
+C:\Users\diego\OneDrive\Escritorio\UDB\ejercicio estructura secuencial\ejercicio estructura secuencial\bin\Debug\ejercicio estructura secuencial.pdb
+C:\Users\diego\OneDrive\Escritorio\UDB\ejercicio estructura secuencial\ejercicio estructura secuencial\obj\Debug\ejercicio estructura secuencial.csprojAssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\UDB\ejercicio estructura secuencial\ejercicio estructura secuencial\obj\Debug\ejercicio estructura secuencial.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\UDB\ejercicio estructura secuencial\ejercicio estructura secuencial\obj\Debug\ejercicio estructura secuencial.exe
+C:\Users\diego\OneDrive\Escritorio\UDB\ejercicio estructura secuencial\ejercicio estructura secuencial\obj\Debug\ejercicio estructura secuencial.pdb
