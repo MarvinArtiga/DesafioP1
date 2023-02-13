@@ -12,8 +12,6 @@ namespace ResistenciaElectronicas
         {
             //by David Alejandro 
             //Date: 30012022
-            //Console.WindowHeight = 100; // alto de la ventana
-            //Console.WindowWidth = 100;  //ancho de la ventana
             Console.ForegroundColor = ConsoleColor.Black;
             Console.BackgroundColor = ConsoleColor.White;
             Console.Clear();
@@ -595,7 +593,7 @@ namespace ResistenciaElectronicas
             Console.WriteLine("\t\t*                                           *");
             Console.WriteLine("\t\t*              David Alejandro              *");
             Console.WriteLine("\t\t*   ***Ejercicio V. del trabajo grupal***   *");
-            Console.WriteLine("\t\t*            DESAFIO PRECTICO #1            *");
+            Console.WriteLine("\t\t*            DESAFIO PRACTICO #1            *");
             Console.WriteLine("\t\t*                                           *");
             Console.Write("\t\t");
             Console.ForegroundColor = ConsoleColor.White;
